@@ -1,4 +1,3 @@
 *.py[co]
 .doit.db.db
-output/
 cache/
